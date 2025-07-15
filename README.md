@@ -1,9 +1,3 @@
-### 🔗 *Project Links*
-
-* 🌐 **Website Link**: [https://iris-tumor-detector.streamlit.app/](https://iris-tumor-detector.streamlit.app/)
-* 📁 **Google Drive Folder**: [https://drive.google.com/drive/folders/1JN3-8iQMFWO4FpGDQTa3QQLRhAoxVusJ](https://drive.google.com/drive/folders/1JN3-8iQMFWO4FpGDQTa3QQLRhAoxVusJ)
-
----
 
 ### 🧠 *About the Project*
 
